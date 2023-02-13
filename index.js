@@ -2,12 +2,10 @@
 
 //Function to multiply two numbers
 
-// function multiplyNumbers(firstNumber,
-// secondNumber)
-// let firstNumber = 4;
-// let secondNumber = 25;
-// let product =firstNumber * secondNumber;
-// console.log(product);
+let firstNumber = 4;
+let secondNumber = 25;
+let product = firstNumber * secondNumber;
+console.log(product);
 
 //My Data
 
